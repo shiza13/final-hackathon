@@ -138,7 +138,7 @@ import { RxCross2 } from "react-icons/rx";
   <button className="chairemail-signup-button">Sign up</button>
 </div>
 
-    <footer className="bg-purple-900 text-white py-8">
+    <footer className="bg-blue-900 text-white py-8">
       <div className="container mx-auto px-4 grid grid-cols-1 md:grid-cols-5 gap-8">
         {/* Company Info */}
         <div>
