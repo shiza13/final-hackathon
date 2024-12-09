@@ -39,7 +39,7 @@ import { RxCross2 } from "react-icons/rx";
 />
 
         </a>
-        <a href="cart">
+        <a href="shopping-baskets">
             <Image src="/Shopping--cart.png"alt=""  layout="responsive"
   width={16}
   height={9} />
